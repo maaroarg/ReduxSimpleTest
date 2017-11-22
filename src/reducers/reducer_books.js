@@ -3,5 +3,6 @@ export default function(){
     {title: 'JS: The Good Parts'},
     {title: 'Martin Fierro'},
     {title: 'Otro libro'},
+    {title: 'IT'},
   ]
 }
